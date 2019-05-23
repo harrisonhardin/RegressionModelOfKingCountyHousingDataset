@@ -7,5 +7,5 @@ Tha factors that underwent regression models were square footage, which was refi
 
 Table of Contents:
 
-[Header Information for Assessment, Jupyter Notebook](00FinalProjectSubmission.ipynb)
+[Header Information for Assessment, Jupyter Notebook](00FinalProjectSubmission.ipynb)\n
 [Header Information for Assessment, PDF](00FinalProjectSubmission.pdf)
